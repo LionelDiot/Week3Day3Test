@@ -1,0 +1,12 @@
+GEM
+  specs:
+    dotenv (2.8.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  dotenv
+
+BUNDLED WITH
+   2.4.5
